@@ -1,69 +1,69 @@
 {
-"maids":[{
-"name":"Vijaya Thakur",
-"location": "East Kolkata Township",
-"experience":"10 years",
-"religon":"hindu",
-"age":"31 years",
-"skills":[{
-"cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
-"cooking":["Traditional food","Traditional food"]
-}]
-},
-{
-"name":"K Biswas",
-"location": "East Kolkata Township",
-"experience":"10 years",
-"religon":"hindu",
-"age":"31 years",
-"skills":[{
-"baby Sitter":["Changing Diaper", "Feeding","Baby Bathing","Baby Bathing","Preparing Baby for Sleep"],
-"Elderly care ":["Injection","Giving Medicines","Bathing & Sponging"]
-}]
-},
-{
-"name":"Mamta Dutta",
-"location": "East Kolkata Township",
-"experience":"10 years",
-"religon":"hindu",
-"age":"31 years",
-"skills":[{
-"Gardening":["Dusting", "sweeping & mopping" "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
-"Guard":["Traditional food","Traditional food"]
-}]
-},
-{
-"name":"K Biswas",
-"location": "East Kolkata Township",
-"experience":"10 years",
-"religon":"hindu",
-"age":"31 years",
-"skills":[{
-"cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
-"cooking":["Traditional food","Traditional food"]
-}]
-},
-{
-"name":"Vijaya Thakur",
-"location": "East Kolkata Township",
-"experience":"10 years",
-"religon":"hindu",
-"age":"31 years",
-"skills":[{
-"cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
-"cooking":["Traditional food","Traditional food"]
-}]
-}
-{
-"name":"Vijaya Thakur",
-"location": "East Kolkata Township",
-"experience":"10 years",
-"religon":"hindu",
-"age":"31 years",
-"skills":[{
-"cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
-"cooking":["Traditional food","Traditional food"]
-}]
-},
-]
-}
+    "maids":[{
+    "name":"Vijaya Thakur",
+    "location": "East Kolkata Township",
+    "experience":"10 years",
+    "religon":"hindu",
+    "age":"31 years",
+    "skills":[{
+    "cleaning":["Dusting", "sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+    "cooking":["Traditional food","Traditional food"]
+    }]
+    },
+    {
+    "name":"K Biswas",
+    "location": "East Kolkata Township",
+    "experience":"10 years",
+    "religon":"hindu",
+    "age":"31 years",
+    "skills":[{
+    "baby Sitter":["Changing Diaper", "Feeding","Baby Bathing","Baby Bathing","Preparing Baby for Sleep"],
+    "Elderly care ":["Injection","Giving Medicines","Bathing & Sponging"]
+    }]
+    },
+    {
+    "name":"Mamta Dutta",
+    "location": "East Kolkata Township",
+    "experience":"10 years",
+    "religon":"hindu",
+    "age":"31 years",
+    "skills":[{
+    "Gardening":["Dusting", "sweeping & mopping","Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+    "Guard":["Traditional food","Traditional food"]
+    }]
+    },
+    {
+    "name":"K Biswas",
+    "location": "East Kolkata Township",
+    "experience":"10 years",
+    "religon":"hindu",
+    "age":"31 years",
+    "skills":[{
+    "cleaning":["Dusting","sweeping & mopping", "Ironing", "Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+    "cooking":["Traditional food","Traditional food"]
+    }]
+    },
+    {
+        "name":"Vijaya Thakur",
+        "location": "East Kolkata Township",
+        "experience":"10 years",
+        "religon":"hindu",
+        "age":"31 years",
+        "skills":[{
+        "cleaning":["Dusting", "sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+        "cooking":["Traditional food","Traditional food"]
+        }]
+        },
+    {
+        "name":"Vijaya Thakur",
+        "location": "East Kolkata Township",
+        "experience":"10 years",
+        "religon":"hindu",
+        "age":"31 years",
+        "skills":[{
+        "cleaning":["Dusting", "sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+        "cooking":["Traditional food","Traditional food"]
+        }]
+        }
+    ]
+    }
