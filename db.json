@@ -51,9 +51,9 @@
 "age":"31 years",
 "skills":[{
 "cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
-"cooking":["Traditional food","Traditional food"],
+"cooking":["Traditional food","Traditional food"]
 }]
-},
+}
 {
 "name":"Vijaya Thakur",
 "location": "East Kolkata Township",
