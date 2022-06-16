@@ -6,9 +6,9 @@
 "religon":"hindu",
 "age":"31 years",
 "skills":[{
-"cleaning":[Dusting sweeping & mopping, Ironing,Dish washing,Machine washing,Grocery Shopping,Hand washing],
-"cooking":[Traditional food,Traditional food],
-}],
+"cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+"cooking":["Traditional food","Traditional food"]
+}]
 },
 {
 "name":"K Biswas",
@@ -17,8 +17,8 @@
 "religon":"hindu",
 "age":"31 years",
 "skills":[{
-"baby Sitter":[Changing Diaper, Feeding,Baby Bathing,Baby Bathing,Preparing Baby for Sleep],
-"Elderly care ":[Injection,Giving Medicines,Bathing & Sponging],
+"baby Sitter":["Changing Diaper", "Feeding","Baby Bathing","Baby Bathing","Preparing Baby for Sleep"],
+"Elderly care ":["Injection","Giving Medicines","Bathing & Sponging"]
 }]
 },
 {
@@ -28,8 +28,8 @@
 "religon":"hindu",
 "age":"31 years",
 "skills":[{
-"Gardening":[Dusting, sweeping & mopping Ironing,Dish washing,Machine washing,Grocery Shopping,Hand washing],
-"Guard":[Traditional food,Traditional food],
+"Gardening":["Dusting", "sweeping & mopping" "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+"Guard":["Traditional food","Traditional food"]
 }]
 },
 {
@@ -39,8 +39,8 @@
 "religon":"hindu",
 "age":"31 years",
 "skills":[{
-"cleaning":[Dusting sweeping & mopping, Ironing,Dish washing,Machine washing,Grocery Shopping,Hand washing],
-"cooking":[Traditional food,Traditional food],
+"cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+"cooking":["Traditional food","Traditional food"]
 }]
 },
 {
@@ -50,8 +50,8 @@
 "religon":"hindu",
 "age":"31 years",
 "skills":[{
-"cleaning":[Dusting sweeping & mopping, Ironing,Dish washing,Machine washing,Grocery Shopping,Hand washing],
-"cooking":[Traditional food,Traditional food],
+"cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+"cooking":["Traditional food","Traditional food"],
 }]
 },
 {
@@ -61,8 +61,8 @@
 "religon":"hindu",
 "age":"31 years",
 "skills":[{
-"cleaning":[Dusting sweeping & mopping, Ironing,Dish washing,Machine washing,Grocery Shopping,Hand washing],
-"cooking":[Traditional food,Traditional food],
+"cleaning":["Dusting sweeping & mopping", "Ironing","Dish washing","Machine washing","Grocery Shopping","Hand washing"],
+"cooking":["Traditional food","Traditional food"]
 }]
 },
 ]
